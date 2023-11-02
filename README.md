@@ -1,4 +1,4 @@
-# Análisis del impacto de la propaganda y la opinion pública en la Dinámica de Opinión de una Población de Votantes.
+# Análisis del impacto de la propaganda en las elecciones presidenciales.
 
 ## Integrantes
 | Legajo | Apellido y Nombres |
